@@ -1,0 +1,16 @@
+R08 Access Bridge
+Copyright 2026 Anezium
+
+This product includes software developed by Anezium (https://github.com/Anezium).
+
+Licensed under the Apache License, Version 2.0.
+
+---------------------------------------------------------------------
+
+Fork notice: the binaries distributed from this repository are a
+modified version of R08 Access Bridge by Anezium
+(https://github.com/Anezium/R08-Access-Bridge), modified by the fork's
+author (appne). The fork's modifications are likewise provided under
+the Apache License, Version 2.0 (see LICENSE). Fork versions carry a
+"+pN" suffix in their version names; the fork's CHANGELOG lists the
+changes relative to the upstream release each build is based on.
